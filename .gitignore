@@ -17,3 +17,4 @@ log/
 .idea
 .DS_Store
 .vscode/
+test_scripts/test_runner.py
